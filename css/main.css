@@ -2,6 +2,9 @@
 	margin:0;
 	padding:0
 }
+body{
+        font-size:14px;
+}
 li{
 	list-style-type: none;
 }
@@ -69,8 +72,9 @@ main li{
 
 }
 .article-meta{
-text-align: center;
-margin:5px 0px 50px 0px;
+    text-align: center;
+    margin:5px 0px 50px 0px;
+    font-size:12px;
 }
 .article-main{
 	margin:10 40 60 40;
