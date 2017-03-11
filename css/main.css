@@ -69,6 +69,7 @@ main li{
 .article-title{
     line-height: 1.5em;
     text-align: center;
+    margin-top:15px;
 
 }
 .article-meta{
