@@ -20,7 +20,7 @@ header{
 }
 header p{
 	font-size: 34px;
-	margin:10px 0 0 0;
+	margin:20px 0 0 0;
 }
 #headpic{
 	width:100px;
@@ -28,12 +28,13 @@ header p{
 	margin-top:50px;
 }
 nav{
-	margin-top: 20px
+	margin-top: 60px
 }
 header ul{
 	
 	height:30px;
 	line-height: 30px;
+	font-size:14px;
    
 }
 header li{
