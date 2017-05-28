@@ -17,4 +17,4 @@
 			echo  $echostr;
 			exit;
 		}
-	
+	echo "HI"
